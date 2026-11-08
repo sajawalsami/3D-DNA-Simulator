@@ -1,0 +1,18 @@
+
+# Executable files
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Build folders
+build/
+dist/
+
+# Temporary files
+*.pdb
+*.ilk
+
+# VS Code settings
+.vscode/
